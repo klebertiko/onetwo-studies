@@ -22,3 +22,9 @@ This file shows how to use one two to use the openai llm.
 python3 hello_onetwo_openai.py
 ```
 
+## WIP: hello_onetwo_gemini.py
+This file shows how to use one two to use the gemini llm.
+```bash
+python3 hello_onetwo_gemini.py
+```
+
