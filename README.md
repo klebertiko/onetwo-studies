@@ -8,7 +8,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## hello_onetwo.py
+## WIP: hello_onetwo.py
 This file shows how to use one two to load a local llm and chat with it.
 Tested with lhama2-7b-chat.Q4_K_M.gguf
 Download here: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7b-chat.Q4_K_M.gguf
