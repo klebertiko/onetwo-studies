@@ -1,3 +1,6 @@
 llama-cpp-python
 openai
+selenium
+Pillow
+webdriver-manager
 git+https://github.com/google-deepmind/onetwo
